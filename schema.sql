@@ -42,9 +42,10 @@ INSERT INTO Staff (full_name, role) VALUES
  ('Brad Pitt','Librarian'),
  ('Chris Rock','Assistant');
 
-INSERT INTO Book (title, author, isbn, genre, copies_total, copies_available) VALUES
+INSERT INTO Book (title, author, ISBN, genre, copies_total, copies_available) VALUES
  ('Percy Jackson and the Olympians: The Lightning Thief','Rick Riordan','0120000156','Fantasy/Adventure',4,4),
  ('To All the Boys I''ve Loved Before','Jenny Han','1534427031
 ','Romance/YA',3,3),
  ('Harry Potter and the Sorcerer''s Stone','J.K. Rowling','1338878921','Fantasy Fiction',5,5);
+
 
